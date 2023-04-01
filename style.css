@@ -1,0 +1,50 @@
+@charset "utf-8";
+.box1 {
+    width: auto;
+    background-color: #CEF2FF;
+    height: 460px;
+    flex: 1;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border-radius: 25px;
+    text-align: center;
+}
+.box2 {
+    width: auto;
+    background-color: #FFF9C4;
+    height: 460px;
+    flex: 1;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    text-align: right;
+}
+.box3 {
+    width: auto;
+    background-color: #ADFFD8;
+    height: 100px;
+    flex: 1;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    text-align: right;
+}
+.box3 {
+    background-color: #71FFBF;
+    height: 460px;
+    margin-top: 5px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    background-color: #FFFFFF;
+}
